@@ -1,10 +1,8 @@
 # CLIMA
 
-A weather app that provide climate Information of your location and whichever city you want to know.
+A weather app that provides climate Information of your location and whichever city you want to know.
 
 ## What I Learnt
-To make various API calls.
-
-Asynchronous Programming
-
-To retrieve data from JSON files.
+* To make various API calls.
+* Asynchronous Programming
+* To retrieve data from JSON files.
