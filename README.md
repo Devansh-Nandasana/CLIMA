@@ -4,5 +4,5 @@ A weather app that provides climate Information of your location and whichever c
 
 ## What I Learnt
 * To make various API calls.
-* Asynchronous Programming
+* Asynchronous Programming and REST APIs.
 * To retrieve data from JSON files.
